@@ -14,21 +14,22 @@ The Power BI dashboard includes the following key sections:
 
 1. Executive Summary
 A high-level overview showcasing key performance indicators (KPIs) such as:
-Revenue per Available Room (RevPAR)
 
-Average Daily Rate (ADR)
+ Revenue per Available Room (RevPAR)
 
-Occupancy Rate
+ Average Daily Rate (ADR)
+
+ Occupancy Rate
 
 Revenue Growth Rate
 
 2. Revenue Trends Analysis
 
-Visual representations of revenue patterns over time, helping to identify:
+ Visual representations of revenue patterns over time, helping to identify:
 
-Seasonal fluctuations in revenue.
+ Seasonal fluctuations in revenue.
 
-Trends in revenue growth or decline across different periods.
+ Trends in revenue growth or decline across different periods.
 
 3. Regional & Property-wise Performance
 
