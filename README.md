@@ -11,7 +11,8 @@ As they lacked an internal data analytics team, external expertise was sought to
 **Dashboard Features**
 
 The Power BI dashboard includes the following key sections:
-1. Executive Summary
+
+**Executive Summary**
 
 A high-level overview showcasing key performance indicators (KPIs) such as:
 
@@ -23,7 +24,7 @@ Occupancy Rate
 
 Revenue Growth Rate
 
-2. Revenue Trends Analysis
+ **Revenue Trends Analysis**
 
  Visual representations of revenue patterns over time, helping to identify:
 
@@ -31,7 +32,7 @@ Revenue Growth Rate
 
  Trends in revenue growth or decline across different periods.
 
-3. Regional & Property-wise Performance
+ **Regional & Property-wise Performance**
 
 An in-depth analysis of revenue performance across different regions and hotel properties.
 
@@ -39,15 +40,15 @@ Identify high-performing and low-performing regions.
 
 Compare revenue contributions across multiple properties.
 
-4. Customer Segment Analysis
+**Customer Segment Analysis**
 
 Breakdown of revenue by customer type, providing insights into the most profitable segments.
 
-5. Competitor Benchmarking
+**Competitor Benchmarking**
 
 Comparisons against competitors in terms of market share and growth trends.
 
-##Key Insights##
+**Key Insights**
 
 Revenue seasonality: Certain periods show higher revenue, indicating peak demand seasons.
 
@@ -57,13 +58,13 @@ Segment profitability: Business travelers appear to be the most profitable custo
 
 Occupancy rate improvement: Strategies to improve occupancy during off-peak seasons could boost overall revenue.
 
-##Technologies Used##
+**Technologies Used**
 
 Data Visualization: Power BI
 
 Data Analysis: Power BI’s built-in DAX functions and visualization tools.
 
-##How to Use the Dashboard##
+**How to Use the Dashboard**
 
 Download the Power BI file (Revenue Insights in Hospitality Domain.pbix).
 
@@ -71,7 +72,7 @@ Open the file using Power BI Desktop.
 
 Explore the various tabs and sections to view revenue performance metrics, trends, and insights.
 
-##Future Enhancements##
+**Future Enhancements**
 
 Incorporate predictive analysis to forecast future revenue trends.
 
