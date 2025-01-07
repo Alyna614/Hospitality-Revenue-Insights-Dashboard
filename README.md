@@ -1,19 +1,18 @@
-##Hospitality Revenue Insights Dashboard##
+**Hospitality Revenue Insights Dashboard**
 
 This project involves creating a detailed and interactive Power BI dashboard to provide insights into the revenue performance of a luxury hotel chain. The dashboard is designed to assist the management in understanding key metrics, revenue trends, and actionable areas for business improvement, ultimately helping them regain market share and improve profitability.
 
-##Project Overview##
+**Project Overview**
 
 A leading luxury hotel chain with operations across India has faced a significant decline in its revenue and market share due to increased competition and suboptimal management decisions. To address this issue, the management decided to adopt a data-driven approach by leveraging Business and Data Intelligence.
 
 As they lacked an internal data analytics team, external expertise was sought to analyze historical revenue data and provide actionable insights through an intuitive Power BI dashboard. This project is aimed at enabling the hotel’s leadership to make informed decisions and develop effective strategies for growth.
 
-##Dashboard Features##
+**Dashboard Features**
 
 The Power BI dashboard includes the following key sections:
 
 1. Executive Summary
-
 A high-level overview showcasing key performance indicators (KPIs) such as:
 
 Revenue per Available Room (RevPAR)
